@@ -1,6 +1,6 @@
 # electron-keytar-windows10-howto
 
-This is a HOWTO for making the [Keytar](https://github.com/atom/node-keytar) native password module work with [Electron](https://github.com/electron/electron) on Windows 10 in spite of [this problem](https://github.com/atom/node-keytar/issues/51).
+This is a how-to for making the [Keytar](https://github.com/atom/node-keytar) native password module work with [Electron](https://github.com/electron/electron) on Windows 10 in spite of [this problem](https://github.com/atom/node-keytar/issues/51).
 
 ## Solution 1
 
