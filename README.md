@@ -54,7 +54,7 @@ npm install electron-rebuild --save-dev
 
 Notes:
 * npm init will ask for a few inputs and generate a package.json file for you: confirm "index.js" as entry point script or create the file accordingly in step C
-* electron-rebuild will take a few minutes.
+* electron-rebuild may take a few minutes.
 
 #### C) create a minimal index.js
 
