@@ -4,7 +4,7 @@ This is a how-to for making the [Keytar](https://github.com/atom/node-keytar) na
 
 ## Solution 1
 
-This solution is based on [electron-quick-start](https://github.com/electron/electron-quick-start) and will currently (26/SEPT/2018) provide an instance of Electron 2.0.0 with Node.js 8.9.3 and Chromium 61.0.3163.100. I'll be using a Windows PowerShell terminal. I have Visual Studio 2017 with support for C++ installed.
+This solution is based on [electron-quick-start](https://github.com/electron/electron-quick-start) and will currently (26/Sep/2018) provide an instance of Electron 2.0.0 with Node.js 8.9.3 and Chromium 61.0.3163.100. I'll be using a Windows PowerShell terminal. I have Visual Studio 2017 with support for C++ installed.
 
 ```
 git clone https://github.com/electron/electron-quick-start
@@ -28,7 +28,7 @@ On my machine (Windows 10 Home 64 bit, version 1803, build 17134.285, x64 proces
 
 ## Solution 2
 
-This solution will provide an up-to-date instance of Electron (v.3.0.0 with Node.js 10.2.0 and Chromium 66.0.3359.181 as of 26/SEPT/2018). You'll need Visual Studio with support for C++ installed (I used Visual Studio Community 2017). It also [requires python 2.7](https://stackoverflow.com/a/39648550):
+This solution will provide an up-to-date instance of Electron (v.3.0.0 with Node.js 10.2.0 and Chromium 66.0.3359.181 as of 26/Sep/2018). You'll need Visual Studio with support for C++ installed (I used Visual Studio Community 2017). It also [requires python 2.7](https://stackoverflow.com/a/39648550):
 
 #### A) from a Windows PowerShell with admin provileges
 
