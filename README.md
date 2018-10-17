@@ -24,7 +24,7 @@ keytar.setPassword('my-service', 'my-user', 'my-password')
 keytar.getPassword('my-service', 'my-user').then(function(v) {console.log(v)})
 ```
 
-On my machine (Windows 10 Home 64 bit, version 1803, build 17134.285, x64 processor) electron-rebuild didn't actually need to do much and only took second or two.
+On my machine (Windows 10 Home 64 bit, version 1803, build 17134.285, x64 processor) electron-rebuild didn't actually need to do much and only took a second or two.
 
 ## Solution 2
 
